@@ -1,7 +1,7 @@
 {
   "name": "task-1",
   "version": "1.0.0",
-  "description": "التاسك رقم واحد - A simple Node.js ESM project organizing Users and Tasks into separate modules with in-memory data.",
+  "description": "Task 1 - A simple Node.js ESM project organizing Users and Tasks into separate modules with in-memory data.",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
