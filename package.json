@@ -1,7 +1,7 @@
 {
-  "name": "backend-tasks-esm",
+  "name": "task-1",
   "version": "1.0.0",
-  "description": "A simple Node.js ESM project organizing Users and Tasks into separate modules with in-memory data.",
+  "description": "التاسك رقم واحد - A simple Node.js ESM project organizing Users and Tasks into separate modules with in-memory data.",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
